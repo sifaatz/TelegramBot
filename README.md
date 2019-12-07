@@ -1,12 +1,17 @@
 Version 0.1
 
 # TelegramBot
-Small python code to interact with telegram. Resulted from my need to receive and send messages from some Raspberry Pis.  
-There are a lot of other within projects.
+Here will come a small python package to interact with telegram. It resulted from a small Raspberr-Pi project and the objective is to easily revceive and send messages to RPI which can be interpretated by Python.   
+Very helpfull for me to maintain headless RPIs.
 
 
 ## How it works
 Code will follow soon.
+* config for Telegram Bot
+* Send messages
+* Receive messages
+* Configured commands
+
 
 ## Preconditions
 
