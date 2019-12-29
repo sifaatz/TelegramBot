@@ -2,7 +2,8 @@ Version 0.1
 
 # TelegramBot
 Here will come a small python package to interact with telegram. It resulted from a small Raspberr-Pi project and the objective is to easily revceive and send messages to RPI which can be interpretated by Python.   
-Very helpfull for me to maintain headless RPIs.
+Very helpfull for me to maintain headless RPIs. 
+Not comparable to the *telegram* package. 
 
 
 ## How it works
